@@ -1,4 +1,4 @@
-### My Portfolio
+# My Portfolio
 
 This portfolio will replace my current one so that I may practice using React and get familiar with deploying projects using gh-pages/heroku.
 
