@@ -1,3 +1,7 @@
+# My Portfolio
+
+This portfolio will replace my current one so that I may practice using React and get familiar with deploying projects using gh-pages/heroku.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
