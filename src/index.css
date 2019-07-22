@@ -16,14 +16,33 @@ code {
   box-sizing: border-box;
 }
 
-.script-font {
-  font-family: 'Kaushan Script',
-    cursive;
-  font-size: 25px;
+.logotype {}
+
+.header-font {
+  font-family: 'Raleway',
+    sans-serif;
+}
+
+.header {
+  font-weight: bolder;
+  font-size: 70px;
+}
+
+ul a {
+  font-size: 20px;
+}
+
+ul a:hover {
+  border-bottom: 2px solid white;
+}
+
+.nav-item {
+  margin-right: 30px;
 }
 
 .main-font {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
+
 }
 
 .jumbo {
@@ -37,7 +56,7 @@ code {
 }
 
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/pink-camelia.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/flower-blossoms.jpg");
   background-size: cover;
   background-position: center;
   content: "";
@@ -46,10 +65,16 @@ code {
   width: 100%;
   height: 100%;
   min-width: 100%;
-  min-height: 60vh;
+  min-height: 80vh;
   position: relative;
   opacity: 0.8;
   background-repeat: no-repeat;
   display: flex;
   align-items: center;
+}
+
+.nav-bg {
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  width: 100%;
 }
