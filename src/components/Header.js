@@ -5,9 +5,9 @@ function Header(props) {
     <header className="jumbotron-fluid text-light home">
       <div className="hero column justify-content-center align-content-center">
         {props.children}
-        <div class="text-center">
-          <h1 class="header-font header">CAMILIA MZALI</h1>
-          <h2 class="main-font">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h2>
+        <div className="text-center">
+          <h1 className="header-font header letter-space">CAMILIA MZALI</h1>
+          <h2 className="main-font">Full stack developer with a passion for design</h2>
         </div>
       </div>
     </header>

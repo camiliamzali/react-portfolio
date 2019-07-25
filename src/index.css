@@ -16,16 +16,27 @@ code {
   box-sizing: border-box;
 }
 
-.logotype {}
+.wrapper {
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #f1f1f1;
+}
 
 .header-font {
   font-family: 'Raleway',
     sans-serif;
 }
 
+.letter-space {
+  letter-spacing: 4px;
+}
+
 .header {
   font-weight: bolder;
   font-size: 70px;
+}
+
+.project-title {
+  font-size: 50px;
 }
 
 ul a {
