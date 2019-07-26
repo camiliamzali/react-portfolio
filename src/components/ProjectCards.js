@@ -2,12 +2,13 @@ import React from 'react';
 
 function ProjectCard(props) {
   return (
-    <div className="card col-md-3 col-sm-12">
-      <img className="card-img-top" src={props.image} />
-      <div className="card-body">
-        <h5 className="card-title">{props.name}</h5>
-        <p className="card-text">{props.description}</p>
-        <a href={props.link} className="btn btn-primary">Go somewhere</a>
+    <div className="col-md-3 col-sm-12">
+      <div className="card">
+        <img className="card-img-top" src={props.image} alt="props" />
+        <div className="card-body">
+          <h5 className="card-title header-font">{props.name}</h5>
+          <p className="card-text main-font">{props.description}</p>
+        </div>
       </div>
     </div>
   )

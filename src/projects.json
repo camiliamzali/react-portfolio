@@ -1,25 +1,25 @@
 [{
     "name": "R.O.A.M.",
-    "image": "/images/roam.jpg",
+    "image": "/images/roamhomepage.png",
     "description": "",
     "link": ""
 
   },
   {
     "name": "DigiNote",
-    "image": "./images/diginote.jpg",
+    "image": "./images/diginoteexample.png",
     "description": "",
     "link": ""
   },
   {
     "name": "Twitch API",
-    "image": "./images/twitch.png",
+    "image": "./images/twitchhomepage.png",
     "description": "",
     "link": ""
   },
   {
     "name": "Purrfect Cat Boarding",
-    "image": "./images/catboarding.jpg",
+    "image": "./images/catboardinghomepage.png",
     "description": "",
     "link": ""
   }
