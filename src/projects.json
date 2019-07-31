@@ -2,25 +2,24 @@
     "name": "R.O.A.M.",
     "image": "/images/roamhomepage.png",
     "description": "",
-    "link": ""
-
+    "link": "https://camiliamzali.github.io/R.O.A.M./"
   },
   {
     "name": "DigiNote",
     "image": "./images/diginoteexample.png",
     "description": "",
-    "link": ""
+    "link": "https://diginote2.herokuapp.com/"
   },
   {
     "name": "Twitch API",
     "image": "./images/twitchhomepage.png",
     "description": "",
-    "link": ""
+    "link": "http://camiliamzali.com/twitch_api"
   },
   {
     "name": "Purrfect Cat Boarding",
     "image": "./images/catboardinghomepage.png",
     "description": "",
-    "link": ""
+    "link": "https://mzalicam.wixsite.com/cat-boarding-copy"
   }
 ]

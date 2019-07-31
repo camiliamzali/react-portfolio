@@ -15,7 +15,6 @@ class Portfolio extends React.Component {
     return (
       <React.Fragment>
         <Header >
-          <Nav />
         </Header>
         < Projects>
           {
