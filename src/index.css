@@ -146,6 +146,31 @@ img:hover {
   border-color: var(--light-green);
 }
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+/* LinkedIn */
+.fa-linkedin {
+  background: white;
+  color: black;
+}
+
+/* GitHub */
+.fa-github {
+  background: #55ACEE;
+  color: white;
+}
 
 .card {
   padding-bottom: 10px;

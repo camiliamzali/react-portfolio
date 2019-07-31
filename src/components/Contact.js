@@ -8,7 +8,15 @@ function Contact() {
       <a className="button btn btn-lg main-font" href="mailto:camilia.mzali@gmail.com">
         <i className="far fa-envelope fa-lg pr-2"></i>
         Get in touch
-      </a>
+  </a>
+      <div className="row">
+        <a className="btn-sm rounded">
+          <i className="fab fa-linkedin fa-2x"></i>
+        </a>
+        <a className="">
+          <i className="fab fa-github fa-2x"></i>
+        </a>
+      </div>
     </footer>
   )
 }
