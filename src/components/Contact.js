@@ -10,10 +10,10 @@ function Contact() {
         Get in touch
   </a>
       <div className="row">
-        <a className="btn-sm rounded">
+        <a className="btn-sm" href="https://www.linkedin.com/in/camilia-mzali">
           <i className="fab fa-linkedin fa-3x"></i>
         </a>
-        <a className="">
+        <a className="btn-sm" href="https://github.com/camiliamzali">
           <i className="fab fa-github fa-3x"></i>
         </a>
       </div>
