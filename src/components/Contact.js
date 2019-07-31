@@ -11,10 +11,10 @@ function Contact() {
   </a>
       <div className="row">
         <a className="btn-sm rounded">
-          <i className="fab fa-linkedin fa-2x"></i>
+          <i className="fab fa-linkedin fa-3x"></i>
         </a>
         <a className="">
-          <i className="fab fa-github fa-2x"></i>
+          <i className="fab fa-github fa-3x"></i>
         </a>
       </div>
     </footer>
