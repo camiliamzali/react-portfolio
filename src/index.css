@@ -2,6 +2,7 @@
 
 :root {
   --blush: #EEB6B7;
+  --powder: #4a8dac;
   --smoke: #637376;
   --light-green: #4ABDAC;
   --base-white: #f5f5f5;
@@ -73,7 +74,7 @@ ul a:hover {
 }
 
 .portfolio-title {
-  color: var(--blush);
+  color: var(--powder);
 }
 
 .section-title {
@@ -111,8 +112,26 @@ img:hover {
   -webkit-filter: brightness(70%);
 }
 
+.project-img {
+  min-height: 133px;
+  border-bottom: 1px solid var(--secondary-white)
+}
+
+.portfolio-links {
+  color: var(--powder);
+}
+
+.portfolio-links:hover {
+  opacity: 0.5;
+  color: var(--smoke);
+}
+
 .about {
   background-color: var(--smoke);
+}
+
+img .photo {
+  border: 1px solid var(--smoke);
 }
 
 .contact {
@@ -121,9 +140,9 @@ img:hover {
 }
 
 .contact a {
-  width: 20%;
+  min-width: 20%;
   position: relative;
-  margin: 3em auto 5em auto;
+  margin: 3em auto 2em auto;
   color: #fff;
   border-color: #fff;
   font-size: 1em;
@@ -138,6 +157,7 @@ img:hover {
   transition: ease-in-out,
     1s;
   text-decoration: none;
+  padding-right: 1em;
 }
 
 .contact .button:hover {
@@ -147,20 +167,22 @@ img:hover {
 }
 
 .fab {
-  padding: 20px;
+  padding: 15px;
   font-size: 30px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+  transition: ease-in-out,
+    0.5s;
 }
 
 .fab:hover {
-  opacity: 0.7;
+  -webkit-filter: brightness(70%);
 }
 
 
 /* LinkedIn */
-.fa-linkedin {
+.fa-linkedin-in {
   background: #007bb5;
   color: white;
 }
@@ -168,7 +190,17 @@ img:hover {
 /* GitHub */
 .fa-github {
   background: white;
-  color: black;
+  color: #333;
+}
+
+/* Stack Overflow */
+.fa-stack-overflow {
+  background: #222426;
+  color: #f48024;
+}
+
+i {
+  width: 60px;
 }
 
 .card {

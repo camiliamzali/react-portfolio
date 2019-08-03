@@ -1,25 +1,29 @@
 [{
     "name": "R.O.A.M.",
     "image": "/images/roamhomepage.png",
-    "description": "",
+    "description": "The spirit of this app is to allow users to search for events in any particular area of the US and buy tickets. Each event will allow the user to find a weather forecast for that day. Currently, users will only be able to request events within five days of the current day.",
+    "tools": "JavaScript, HTML, CSS, jQuery, OpenWeatherMap API, Ticketmaster API",
     "link": "https://camiliamzali.github.io/R.O.A.M./"
   },
   {
     "name": "DigiNote",
     "image": "./images/diginoteexample.png",
-    "description": "",
+    "description": "This app allows users to create accounts and journal about media. Users can add songs, movies, and books to their notes and write down their thoughts and ideas.",
+    "tools": "ReactJS, CSS Bootstrap, Express, Node, MySQL, OMDB API, Spotify API, Google Books API",
     "link": "https://diginote2.herokuapp.com/"
   },
   {
     "name": "Twitch API",
     "image": "./images/twitchhomepage.png",
-    "description": "",
+    "description": "This project was a practice of jQuery and API application. The site shows a list of steamers that I personally follow and displays their status. Clicking an online streamer will load their stream!",
+    "tools": "jQuery, Twitch API",
     "link": "http://camiliamzali.com/twitch_api"
   },
   {
     "name": "Purrfect Cat Boarding",
     "image": "./images/catboardinghomepage.png",
-    "description": "",
+    "description": "This project was completed for a previous employer that wanted their website redone. Using Wix, this site allows users to view information about the facility and email to book. Primarily a showcase of web design.",
+    "tools": "Wix web builder",
     "link": "https://mzalicam.wixsite.com/cat-boarding-copy"
   }
 ]

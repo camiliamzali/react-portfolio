@@ -9,15 +9,18 @@ function Contact() {
         <i className="far fa-envelope fa-lg pr-2"></i>
         Get in touch
   </a>
-      <div className="row">
-        <a className="btn-sm" href="https://www.linkedin.com/in/camilia-mzali">
-          <i className="fab fa-linkedin fa-3x"></i>
+      <div className="pb-5">
+        <a className="btn-sm mx-3" href="https://www.linkedin.com/in/camilia-mzali">
+          <i className="fab fa-linkedin-in fa-3x"></i>
         </a>
-        <a className="btn-sm" href="https://github.com/camiliamzali">
+        <a className="btn-sm mx-3" href="https://github.com/camiliamzali">
           <i className="fab fa-github fa-3x"></i>
         </a>
+        <a className="btn-sm mx-3" href="https://stackoverflow.com/users/story/9318642">
+          <i className="fab fa-stack-overflow fa-3x"></i>
+        </a>
       </div>
-    </footer>
+    </footer >
   )
 }
 
