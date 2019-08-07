@@ -18,14 +18,15 @@ class Portfolio extends React.Component {
         </Header>
         < Projects>
           {
-            projectList.map(({ name, image, description, link }) => {
+            projectList.map(({ name, image, description, link, tools }) => {
               return (
                 <ProjectCard
                   name={name}
                   key={name}
                   image={image}
                   description={description}
-                  link={link} />
+                  link={link}
+                  tools={tools} />
               )
             })
           }

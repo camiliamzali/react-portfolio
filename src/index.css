@@ -74,7 +74,7 @@ ul a:hover {
 }
 
 .portfolio-title {
-  color: var(--powder);
+  color: var(--smoke);
 }
 
 .section-title {
@@ -101,6 +101,10 @@ ul a:hover {
 .wrapper {
   background-color: var(--secondary-white);
   border-bottom: 1px solid var(--border-white);
+}
+
+.card {
+  min-width: 3em;
 }
 
 img {
