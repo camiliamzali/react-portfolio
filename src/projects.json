@@ -13,17 +13,17 @@
     "link": "https://diginote2.herokuapp.com/"
   },
   {
-    "name": "Twitch API",
-    "image": "./images/twitchhomepage.png",
-    "description": "This project was a practice of jQuery and API application. The site shows a list of steamers that I personally follow and displays their status. Clicking an online streamer will load their stream!",
-    "tools": "jQuery, Twitch API",
-    "link": "http://camiliamzali.com/twitch_api"
-  },
-  {
     "name": "Purrfect Cat Boarding",
     "image": "./images/catboardinghomepage.png",
     "description": "This project was completed for a previous employer that wanted their website redone. Using Wix, this site allows users to view information about the facility and email to book. Primarily a showcase of web design.",
     "tools": "Wix web builder",
     "link": "https://mzalicam.wixsite.com/cat-boarding-copy"
+  },
+  {
+    "name": "Twitch API (Currently Offline)",
+    "image": "./images/twitchhomepage.png",
+    "description": "This project was a practice of jQuery and API application. The site shows a list of steamers that I personally follow and displays their status. Clicking an online streamer will load their stream!",
+    "tools": "jQuery, Twitch API",
+    "link": "http://camiliamzali.com/twitch_api"
   }
 ]
