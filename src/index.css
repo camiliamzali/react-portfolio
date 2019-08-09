@@ -79,6 +79,7 @@ ul a:hover {
 
 .section-title {
   font-size: 50px;
+  font-weight: bolder;
 }
 
 
@@ -103,8 +104,8 @@ ul a:hover {
   border-bottom: 1px solid var(--border-white);
 }
 
-.card {
-  min-width: 3em;
+.card-body {
+  min-height: 300px;
 }
 
 img {

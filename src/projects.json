@@ -20,10 +20,10 @@
     "link": "https://mzalicam.wixsite.com/cat-boarding-copy"
   },
   {
-    "name": "Twitch API (Currently Offline)",
-    "image": "./images/twitchhomepage.png",
-    "description": "This project was a practice of jQuery and API application. The site shows a list of steamers that I personally follow and displays their status. Clicking an online streamer will load their stream!",
-    "tools": "jQuery, Twitch API",
-    "link": "http://camiliamzali.com/twitch_api"
+    "name": "Zohr",
+    "image": "./images/zohr.png",
+    "description": "Current contract through Teamfind, Inc. Primary responsibilities include building features and pages using Sketch mockups provided.",
+    "tools": "Ruby, Ruby on Rails, ReactJS, SCSS, Bootstrap",
+    "link": "https://zohr.com/"
   }
 ]
